@@ -32,5 +32,5 @@ N은 10억보다 작거나 같은 자연수이다.
 
 - Reference:  
   - [백준 2745](https://www.acmicpc.net/problem/2745)  
-  - [백준 11005](https://www.acmicpc.net/problem/11005)
+  - [백준 11005](https://www.acmicpc.net/problem/11005)  
 [진법변환](https://pitch-eel-0ef.notion.site/Lesson-8-2080711f396d8023beb9dbd6e760cbf6?source=copy_link)
